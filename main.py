@@ -16,6 +16,6 @@ for i in range(len(matriz)):
             g.addEdge(i,j,round(float(matriz[i][j])))
             lista_arestas.append((i, j))
             lista_pesos.append(round(float(matriz[i][j])))
-#g.KruskalMST()
+g.KruskalMST()
 
 plot_graph("W", lista_arestas, len(matriz), lista_pesos, lista_vertice)
