@@ -12,7 +12,7 @@
 </p>
 
 # Sobre
-Projeto final da disciplina de Teoria dos grafos ministrada pela Profª. Drª. [Raquel Cabral](http://buscatextual.cnpq.br/buscatextual/visualizacv.do;jsessionid=2D945EE5CEAA9C4B800699193E51ECEE.buscatextual_65).
+Projeto final da disciplina de Teoria dos grafos ministrada pela Profª. Drª. [Raquel Cabral](http://lattes.cnpq.br/0319343616289472).
 
 [Av. Manoel Severino Barbosa - Bom Sucesso, Arapiraca - AL, 57309-005](https://www.google.com/maps/place/UFAL,+Campus+de+Arapiraca/@-9.7013428,-36.6880506,18z/data=!4m5!3m4!1s0x0:0xc680c05ae30667fc!8m2!3d-9.7012582!4d-36.6873613!5m1!1e2).
 
