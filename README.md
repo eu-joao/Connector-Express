@@ -5,7 +5,7 @@
 
 <p align="center">
  <a href="https://github.com/eu-joao/Connector-Express#sobre">Sobre</a> •
- <a href="https://github.com/eu-joao/Connector-Express#requisitos">Software necessário</a> •  
+ <a href="https://github.com/eu-joao/Connector-Express#requisitos">Requisitos</a> •  
  <a href="https://github.com/eu-joao/Connector-Express#bases-de-dados">Base de dados</a> • 
  <a href="https://github.com/eu-joao/Connector-Express#custo">Custo</a> • 
  <a href="https://github.com/eu-joao/Connector-Express#contato-com-os-desenvolvedores">Contato Desenvolvedores</a>
