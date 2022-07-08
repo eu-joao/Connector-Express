@@ -19,7 +19,7 @@ Projeto final da disciplina de Teoria dos grafos ministrada pela Profª. Drª. [
 ## Software necessário
 * Todo o projeto está rodando em windows x64, além disso, foi utilizado a lib [Igraph](https://igraph.org/python/) para plotar os grafos das bases de dados.
 
-* Para realizar a implementação e os testes com o Kruskal, recorreu-se a um computador com processador AMD Ryzen™ 3 3200G 3.6 GHz, tendo 16GB 1700 MHz DDR4 (2 × 8GB) de memória RAM, HD de 1TB e SSD de 256 GB, com sistema operacional Windows. A execução dos algoritmos deve ser realizada com uma configuração mínima necessária: Processador Intel® Core™ 2 Quad Q8400 2,66 GHz, tendo 8GB 1333MHz DDR3 (2x 4GB) de Memória RAM, HD de 160GB, com sistema operacional Windows.
+* Para realizar a implementação e os testes com o Kruskal, recorreu-se a um computador com processador AMD Ryzen™ 3 3200G 3.6 GHz, tendo 16GB 1700 MHz DDR4 (2 × 8GB) de memória RAM, HD de 1TB e SSD de 256 GB. A execução dos algoritmos deve ser realizada com uma configuração mínima necessária: Processador Intel® Core™ 2 Quad Q8400 2,66 GHz, tendo 8GB 1333MHz DDR3 (2x 4GB) de Memória RAM, HD de 160GB.
 
 ## Bases de dados
 As bases de dados utilizadas para solução do problema do conector mínimo foram retiradas do [*The Department Of Scientific Computing*](https://people.sc.fsu.edu/~jburkardt/datasets/cities/cities.html), são elas:
