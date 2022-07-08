@@ -4,11 +4,11 @@
 <p align="center">🚀 Resolvendo o problema dos conectores mínimos com o algoritmo de Kruskal</p>
 
 <p align="center">
- <a href="">Sobre</a> •
- <a href="">Software necessário</a> •  
- <a href="">Base de dados</a> • 
- <a href="">Custo</a> • 
- <a href="">Contato Desenvolvedores</a>
+ <a href="https://github.com/eu-joao/Connector-Express#sobre">Sobre</a> •
+ <a href="https://github.com/eu-joao/Connector-Express#software-necess%C3%A1rio">Software necessário</a> •  
+ <a href="https://github.com/eu-joao/Connector-Express#bases-de-dados">Base de dados</a> • 
+ <a href="https://github.com/eu-joao/Connector-Express#custo">Custo</a> • 
+ <a href="https://github.com/eu-joao/Connector-Express#contato-com-os-desenvolvedores">Contato Desenvolvedores</a>
 </p>
 
 # Sobre
@@ -33,6 +33,6 @@ As bases de dados utilizadas para solução do problema do conector mínimo fora
 Todas as ferramentas utilizadas são gratuitas.
 
 # Contato com os desenvolvedores
-* [João Santos](#)
-* [Wirakã](#)
-* [Wille](#)
+* [João Santos](https://github.com/eu-joao)
+* [Wirakã](#) - `wiraka.souza@arapiraca.ufal.br`
+* [Wille](#) - `wille.batista@arapiraca.ufal.br`
