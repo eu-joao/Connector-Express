@@ -1,7 +1,7 @@
 <h1 align="center">
-    <a href="https://github.com/eu-joao/Connector-Express">🔗 Connector Express</a>
+    <a href="https://github.com/eu-joao/Connector-Express">Connector Express</a>
 </h1>
-<p align="center">🚀 Resolvendo o problema dos conectores mínimos com o algoritmo de Kruskal</p>
+<p align="center">Resolvendo o problema dos conectores mínimos com o algoritmo de Kruskal</p>
 
 <p align="center">
  <a href="https://github.com/eu-joao/Connector-Express#sobre">Sobre</a> •
