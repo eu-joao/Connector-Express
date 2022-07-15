@@ -33,8 +33,3 @@ As bases de dados utilizadas para solução do problema do conector mínimo fora
 
 ## Custo
 Todas as ferramentas utilizadas são gratuitas.
-
-## Contato com os desenvolvedores
-* [João Santos](https://github.com/eu-joao)
-* Wirakã - `wiraka.souza@arapiraca.ufal.br`
-* Wille - `wille.batista@arapiraca.ufal.br`
