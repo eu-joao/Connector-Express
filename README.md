@@ -20,6 +20,3 @@ As bases de dados utilizadas para solução do problema do conector mínimo fora
  - [*WG22*](https://people.sc.fsu.edu/~jburkardt/datasets/cities/wg22_dist.txt);
  - [*WG59*](https://people.sc.fsu.edu/~jburkardt/datasets/cities/wg59_dist.txt);
  - [*SGB128*](https://people.sc.fsu.edu/~jburkardt/datasets/cities/sgb128_dist.txt);
-
-## Custo
-Todas as ferramentas utilizadas são gratuitas.
