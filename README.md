@@ -1,14 +1,5 @@
-<h1 align="center">
-    <a href="https://github.com/eu-joao/Connector-Express">Connector Express</a>
-</h1>
+<h1 align="center">Connector Express</h1>
 <p align="center">Resolvendo o problema dos conectores mínimos com o algoritmo de Kruskal</p>
-
-<p align="center">
- <a href="https://github.com/eu-joao/Connector-Express#sobre">Sobre</a> •
- <a href="https://github.com/eu-joao/Connector-Express#requisitos">Requisitos</a> •  
- <a href="https://github.com/eu-joao/Connector-Express#bases-de-dados">Base de dados</a> • 
- <a href="https://github.com/eu-joao/Connector-Express#custo">Custo</a> 
-</p>
 
 ## Sobre
 Projeto final da disciplina de Teoria dos grafos ministrada pela Profª. Drª. [Raquel Cabral](http://lattes.cnpq.br/0319343616289472).
